@@ -19,7 +19,7 @@
   * Symphony
   * Flutter
 
--  Tecnologías
+- Tecnologías
   * Git
   * Postman
   * Ollama
