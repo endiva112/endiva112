@@ -27,4 +27,7 @@
 
 
 ## Proyectos Destacados
-- [Docugit](https://endiva112.github.io/docugit/es/), una guía de github creado simplemente como una prueba para aplicar todo lo aprendido de CSS en el curso de freeCodeCamp 
+- [Modulo completamente custo para Odoo](https://github.com/endiva112/Modulo-Custom-Odoo), un módulo simple para una clínica veternianaria en Odoo 17
+- [Gameport](https://github.com/endiva112/Gameport), un CRUD hecho con React para aprender a usar el framework
+- [Mini Paint](https://github.com/endiva112/EditorGrafico), clon de paint hecho con Java para mejorar habilidades con el lenguaje
+
